@@ -9,6 +9,7 @@ I am Abdulaziz AlOwain, a student at IMISU's Computer Science and Information Te
 <h4 align="left"> Contact Me </h4>
 <p align="left">
 You can reach me directly on abdulaziz@alowain.dev
+
 and for more information, visit my website at <a href="https://alowain.dev">alowain.dev</a>
 </p>
 
