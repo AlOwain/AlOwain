@@ -1,7 +1,7 @@
-<h3 align="center">Abdulaziz AlOwain | عبد العزيز العوين</h3>
-<p align="left">
-_(Read the English version here. 🇬🇧)[github.com/AlOwain/AlOwain/blob/main/README-en.md]_
-</p>
+<h2 align="center">Abdulaziz AlOwain | عبد العزيز العوين</h3>
+<a href="github.com/AlOwain/AlOwain/blob/main/README-en.md" align="left">
+<i>Read the English version here.</i> 🇬🇧
+</a>
 <p align="right">
 
 </p>
