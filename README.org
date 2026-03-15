@@ -1,0 +1,4 @@
+*** Contact Me
+
+You can reach me directly on ~az @ alowain.dev~,
+and for more information, visit my web page at [[https://alowain.dev][alowain.dev]] (which is inactive right now).
